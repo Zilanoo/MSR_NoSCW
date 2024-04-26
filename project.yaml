@@ -1,0 +1,38 @@
+title: Master Sword Restricted No SCW, français 
+version: 1.0.0
+route: 
+  use: ./main.yaml
+config:
+- use: Pistonight/celer-presets/botw/map.yaml
+- tags:
+    yellow:
+         color: yellow
+    red:
+      color: red
+    blue:
+      color: cyan
+    compteur:
+      color: black
+      background: cyan
+    surligner:
+      background: yellow
+      color: black
+- icons:
+    food: https://icons.pistonite.org/icon/misc.apple.none.568c28.c8e6af.568c28.fdfdfd.568c28.fdfdfd.png
+    stuff: https://icons.pistonite.org/icon/misc.hammer.none.69a2d5.c1fefe.8c5e28.ffffb5.8c5e28.ffffb5.png
+    shrine: https://icons.pistonite.org/icon/shrine.shrine.none.69a2d5.c1fefe.69a2d5.c1fefe.69a2d5.c1fefe.png
+    chest: https://icons.pistonite.org/icon/shrine.blessing.none.69a2d5.c1fefe.8c5e28.ffffb5.8c5e28.ffffb5.png
+    tower: https://icons.pistonite.org/icon/location.tower.none.69a2d5.c1fefe.8c5e28.ffffb5.8c5e28.ffffb5.png
+    papi: https://icons.pistonite.org/icon/character.king.none.69a2d5.c1fefe.69a2d5.c1fefe.69a2d5.c1fefe.png
+    tos: https://icons.pistonite.org/icon/shrine.sword.none.69a2d5.c1fefe.69a2d5.c1fefe.69a2d5.c1fefe.png
+    ms: https://icons.pistonite.org/icon/shrine.double_sword.none.8c5e28.ffffb5.8c5e28.ffffb5.8c5e28.ffffb5.png
+    sor: https://icons.pistonite.org/icon/location.sor.none.69a2d5.c1fefe.8c5e28.ffffb5.8c5e28.ffffb5.png
+    orbs: https://icons.pistonite.org/icon/location.house.none.69a2d5.c1fefe.8c5e28.ffffb5.8c5e28.ffffb5.png
+    skew: https://icons.pistonite.org/icon/misc.shield.none.69a2d5.c1fefe.8c5e28.ffffb5.8c5e28.ffffb5.png
+    warp: https://icons.pistonite.org/icon/location.travel_medallion.none.69a2d5.c1fefe.69a2d5.c1fefe.69a2d5.c1fefe.png
+- plugins:
+  - use: link
+
+
+
+
