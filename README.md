@@ -1,2 +1,2 @@
 # MSR_NoSCWFR
-français
+msr gaming
