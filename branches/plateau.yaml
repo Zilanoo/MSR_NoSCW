@@ -1,0 +1,52 @@
+# Standard BMSC Plateau Route
+- .!!(SoR clip):
+    icon: sor
+
+- Courir vers le .loc(Camp Boko)
+- _Equipment::Shield<Bouclier>:
+    coord: [-952.34, 238.33, 1959.44]
+    icon-map: null
+- _Equipment::Weapon<Epieu Boko>:
+   icon-map: null
+    
+- .food( 6 piments, steak, 4 champis):
+   icon: food
+
+- Surf en bas du .loc(Temple du Temps):
+    notes: Shield Clip
+- _Chest<Arc de Voyageur>:
+    coord: [-832.43, 222.00, 1963.11]
+- _Material<5 flèches normales>:
+    comment: Dans le pot
+    icon-map: null
+
+- BLSS -> Shield Clip
+- _Shrine::JaBaij
+- _Npc<Vieil homme>:
+    coord: [-461.70, 178.41, 1990.18]
+    comment: 2-1-1-2 (Baobab)
+    icon-map: null
+- BLSS
+- _Tower::GreatPlateau:
+    counter: null
+    comment: Ne pas descendre de la tour !
+- WB + lagstop FDC:
+     notes: .link([Tuto]https://www.youtube.com/watch?v=_NG-gp4wEbM) sur le WB
+
+- _Shrine::OmanAu
+- BLSS -> tree WB:
+    coord: [-839, 2273.5]
+- _Equipment::Weapon<Marteau>:
+   icon-map: null
+   comment: Dans stasis, ne pas WB
+- _Shrine::OwaDaim
+
+- Rock Launch -> BLSS:
+   notes: 3 coups avec le marteau pour le Rock Launch
+- _Shrine::KehNamut
+
+- BLSS
+- _Npc<Paraglider>:
+    icon: king
+    coord: [-809.33, 263.58, 1964.35]
+    counter: .var(UserDefined)

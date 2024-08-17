@@ -1,0 +1,58 @@
+- SW ou BLSS:
+   color: red
+- _Shrine::JeeNoh
+- BLSS
+- _Shrine::DahKaso
+- <N + E + N:
+    comment: Un .link([exemple]https://youtu.be/pJpjwOOljyI?si=Pj0yJX-OkF-bSHN0&t=3674)
+- _Shrine::RotaOoh  
+- BLSS ou NE super
+- _Shrine::KaamYatak
+- .E Turn vers une ruine
+- BLSS:
+    comment: Prendre la pente en BLSS
+    coord: [-633.5,561.1289744166006]
+- _Shrine::KatahChuki
+- W. Turn + W. Turn ou super
+- _Shrine::ZaltaWa
+- W + N + N> Turn + <<N Turn:
+   movements:
+    - to: [-1543.6875,-611.3174579064444]
+    - to: [-1565.5,-754.5745395589529]
+    - to: [-1360,-1125.0025986268256]
+   comment: Un .link([exemple]https://youtu.be/waGQ7B_J-Ak?si=UyBTXfPatDrmsoLT&t=3804)
+- _Shrine::MonyaToma
+- W Turn
+- _Shrine::MaagNorah
+- N + S midair:
+    movements:
+      - to: [-1961,-1513.9464139003212] 
+      - to: [-2059.1875,-1406.2277980865779] 
+- BLSS:
+    comment: Un .link([exemple]https://youtu.be/B6CcCo5S7yo?si=fZ4l7tX_8FvpXcrq&t=4238)
+    notes: Tu peux aussi faire une .link([wb chain]https://x.com/JmRuns/status/1792240145422262447)
+- _Shrine::RinOyaa
+- BLSS
+- _Shrine::ShaGehma
+- BLSS + E:
+   movements:
+    - to: [-997,-3553.196413900321]
+    - to: [-776.75,-3526.321099403246]
+    - to: [-778.1875,-3534.5517759276217]
+- _Shrine::QazaTokki
+- S + BLSS:
+    movements:
+     - to: [-846.5,-3530.7621383226733]
+     - to: [-805.3125,-3416.2958828271458]
+    comment: Attention à ne pas speedcap
+- _Shrine::KeoRuug
+- Sprint vers la statue
+- .important(Echanger ses emblèmes à la statue):
+    icon: location
+    coord: [412.625,-2168.2124486155703]
+    notes: Spam uniquement A
+- Surf vers la MS
+- .terrain(Master Sword):
+    coord: [431.5,-2106.928871647741]
+    icon: fin
+    comment: GG!

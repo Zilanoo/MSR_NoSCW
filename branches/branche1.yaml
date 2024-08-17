@@ -1,0 +1,89 @@
+ - S>:
+    notes: Meme WB que en .link([EMS]https://youtu.be/gDQJ6tWaGLU?si=vmUPr86HXOfEXLpI&t=896)
+    coord: [-945.5625,2153.460729779784]
+ - BLSS
+ - _Shrine::QukahNata:
+    notes: Normalement unload mais si le rocher à spawn faire un .link([shield clip]https://www.youtube.com/watch?v=avrVPjqfJDQ) ou alors juste jeter le marteau et attendre la foudre
+ - Sortir du rocher + NW:
+     comment: Passer dans la cascade 
+     notes: Pour sortir du rocher voilà les .link([repères]https://youtu.be/avrVPjqfJDQ?feature=shared&t=192)
+ - _Shrine::ShodaSah
+ - Elevator Stepup, BLSS:
+     notes: Tuto sur les .link([Elevator Stepup]https://youtu.be/Wk5M7Ts7-YE?si=aR4fc9Zcas4mf57B&t=135) (anglais)
+ - _Shrine::ShaiUtoh:
+     notes: Herbe d'hyrule à l'entrée de la grotte si besoin
+ - W + BLSS
+ - _Shrine::KaoMakagh
+ - N> Turn ou BLSS
+ - _Shrine::PumaagNitae:
+    notes: .link([Setup]https://youtu.be/q13JFCnwW94?si=lST-HfJSOIwlIhB5&t=3434) pour skip les ToS
+ - S + BLSS à partir du tronc:
+    notes: Radis à l'enrée de Pumaag Nitae (optionnel)
+    comment: .link([WBs]https://youtu.be/waGQ7B_J-Ak?feature=shared&t=3130) aussi possible
+ - _Shrine::YaNaga
+ - E + midairs vers les tours du pont:
+    coord: [-128.5625,2308.991520270358]
+ - BLSS
+ - _Shrine::ReeDahee
+ - BLSS
+ - _Shrine::HaDahamar
+ - SE + S
+ - _Equipment::Shield<Bouclier de l'égide>:
+    icon-map: null
+    comment: Dans Toto Sah
+    notes: Le bouclier est aussi disponible dans Ta'loh Naeg
+ - _Shrine::TotoSah
+ - BLSS depuis un bloc de Cryonis:
+     notes: Un .link([exemple]https://youtu.be/q13JFCnwW94?si=ztCMIsCOIs0oVcc4&t=1917), regarder le sens du vent avec les particules du bloc de Cryonis
+     coord: [1533.25,1976.4294134836273] 
+ - _Shrine::BoshKala
+ - BLSS ou N> Turn super
+ - _Shrine::WahgoKatta
+ - <E Turn ou BLSS
+ - _Shrine::HilaRao
+ - N. Turn
+ - .food(Fée près du gardien):
+    coord: [965.5,488.36843310564745]
+    notes: Cette fée est optionelle mais recommandée au début
+    icon: food
+ - <N Turn
+ - _Shrine::KayaWan:
+    notes: Il y a des radis dans la foret proche du shrine si besoin
+ - BLSS
+ - _Shrine::ShehRata
+ - BLSS
+ - _Shrine::DakaTuss
+ - S + SE + midair (optionel)
+ - .important(Echanger ses emblèmes à la statue):
+    icon: location
+    coord: [1839.9375,997.7623001341335]
+    notes: Normalement il te reste 3 emblèmes après l'échange
+ - N
+ - _Equipment::Shield<Bouclier de l'égide>:
+    comment: Dans Ta'loh Naeg
+    notes: Si tu l'as déja pris dans Toto Sah alors pas besoin
+    icon-map: null
+ - _Shrine::TalohNaeg
+ - BLSS
+ - _Shrine::SohKofi:
+    notes: Radis à l'entrée du shrine si besoin
+ - N + N:
+    comment: Un .link([exemple]https://x.com/JmRuns/status/1817924995953111295)
+ - _Shrine::TahMuhl
+ - E. + NE
+ - _Shrine::MoaKeet
+ - N Turn
+ - _Shrine::SahDahaj
+ - E + <E
+ - _Shrine::ZeKasho  
+ - BLSS
+ - _Shrine::ZunaKai
+ - BLSS
+ - _Shrine::KatosaAug
+ - BLSS + <S:
+    coord: [4513.5,-1566.3706258872203]
+ - _Shrine::KahMael:
+    notes: Le shrine n'est pas dans le doc, voici un .link([exemple]https://youtu.be/J91C4ZkthDM?si=DILhhXL2Fl3VBLTV&t=4471) de WB
+ - _Warp::Shrine::KehNamut:
+    counter:
+ 

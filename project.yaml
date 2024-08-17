@@ -1,0 +1,34 @@
+# The name of your project/route.
+# This will be displayed in the header for people who are viewing your route
+title: Master Sword Restricted (No SCW)
+
+# The version of your route. There's no particular format here.
+# This will be displayed in the metadata in the settings dialog
+version: 1.1.0
+
+# This is the route itself. Here it points to the main.yaml file we created earlier
+route:
+  use: ./main.yaml
+
+# Extra configuration.
+# The project must define a map to compile properly.
+# For now, we will use the Breath of the Wild celer map maintained by Pistonight
+# see https://github.com/Pistonight/celer-presets/tree/main/botw#usage for usage of these presets
+config:
+  - use: Pistonight/celer-presets/botw/full.yaml
+  - splits:
+      - UserDefined
+      - Warp
+  - plugins:
+      - use: link
+      - use: variables # required
+  - tags: 
+      food:
+        color: greenyellow
+      
+
+  - icons:
+      food: https://icons.pistonite.org/icon/misc.apple.none.568c28.c8e6af.568c28.fdfdfd.568c28.fdfdfd.png
+      sor: https://icons.pistonite.org/icon/location.sor.none.69a2d5.c1fefe.8c5e28.ffffb5.8c5e28.ffffb5.png
+      fin : https://icons.pistonite.org/icon/shrine.double_sword.none.8c5e28.ffffb5.8c5e28.ffffb5.8c5e28.ffffb5.png
+      
