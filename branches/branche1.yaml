@@ -1,0 +1,88 @@
+ - S>:
+    notes: Same WB as in .link([EMS]https://youtu.be/gDQJ6tWaGLU?si=vmUPr86HXOfEXLpI&t=896)
+    coord: [-945.5625,2153.460729779784]
+ - BLSS
+ - _Shrine::QukahNata:
+    notes: Usually unloaded, but if you want to learn the clip go watch .link([this video]https://www.youtube.com/watch?v=avrVPjqfJDQ) or throw the hammer and wait for the lightning
+ - .link([Clip out]https://youtu.be/avrVPjqfJDQ?feature=shared&t=192) + NW:
+     comment: Go through the waterfall
+ - _Shrine::ShodaSah
+ - Elevator BLSS:
+     notes: Elevator BLSS .link([tutorial]https://youtu.be/Wk5M7Ts7-YE?si=aR4fc9Zcas4mf57B&t=135) 
+ - _Shrine::ShaiUtoh:
+     notes: Optional Hylian Herb
+ - W + BLSS
+ - _Shrine::KaoMakagh
+ - N> Turn ou BLSS
+ - _Shrine::PumaagNitae:
+    notes: .link([Setup]https://youtu.be/q13JFCnwW94?si=lST-HfJSOIwlIhB5&t=3434) to skip the ToS
+ - S + BLSS from the stump:
+    notes: Grab 1 small radish closest to shrine if need extra food
+    comment: .link([WBs]https://youtu.be/waGQ7B_J-Ak?feature=shared&t=3130) also work
+ - _Shrine::YaNaga
+ - E + midairs to the bridge towers:
+    coord: [-128.5625,2308.991520270358]
+ - BLSS
+ - _Shrine::ReeDahee
+ - BLSS
+ - _Shrine::HaDahamar
+ - SE + S
+ - _Equipment::Shield<Shield of Mind's Eye>:
+    icon-map: null
+    comment: Inside shrine
+    notes: The shield is also in Ta'loh Naeg
+ - _Shrine::TotoSah
+ - BLSS from a cryo block:
+     notes: An .link([example]https://youtu.be/q13JFCnwW94?si=ztCMIsCOIs0oVcc4&t=1917), observe the direction of the wind with the cryo block particles
+     coord: [1533.25,1976.4294134836273] 
+ - _Shrine::BoshKala
+ - BLSS or N> Turn super
+ - _Shrine::WahgoKatta
+ - <E Turn ou BLSS
+ - _Shrine::HilaRao
+ - N. Turn
+ - .food(Fairy near the guardian):
+    coord: [965.5,488.36843310564745]
+    notes: This fairy is optional but recommended
+    icon: food
+ - <N Turn
+ - _Shrine::KayaWan:
+    notes: Grab 1 small radish closest to shrine if need extra food
+ - BLSS
+ - _Shrine::ShehRata
+ - BLSS
+ - _Shrine::DakaTuss
+ - S + SE + midair (optional)
+ - .important(4 Hearts from statue):
+    icon: location
+    coord: [1839.9375,997.7623001341335]
+    notes: Normally, you have 3 orbs left
+ - N
+ - _Equipment::Shield<Shield of Mind's Eye>:
+    comment: Inside shrine
+    notes: If you’ve already picked it up in Toto Sah, then there’s no need
+    icon-map: null
+ - _Shrine::TalohNaeg
+ - BLSS
+ - _Shrine::SohKofi:
+    notes: Grab 1 big radish closest to shrine if need extra food
+ - N + N:
+    comment: An .link([example]https://x.com/JmRuns/status/1817924995953111295)
+ - _Shrine::TahMuhl
+ - E. + NE
+ - _Shrine::MoaKeet
+ - N Turn
+ - _Shrine::SahDahaj
+ - E + <E
+ - _Shrine::ZeKasho  
+ - BLSS
+ - _Shrine::ZunaKai
+ - BLSS
+ - _Shrine::KatosaAug
+ - BLSS + <S:
+    coord: [4513.5,-1566.3706258872203]
+ - _Shrine::KahMael:
+    notes: The shrine isn't in the doc, .link([here]https://youtu.be/J91C4ZkthDM?si=DILhhXL2Fl3VBLTV&t=4471) an exemple of a WB
+ - _Warp::Shrine::KehNamut:
+    counter:
+ 

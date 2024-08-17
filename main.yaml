@@ -1,0 +1,13 @@
+- The fastest language is Russian.
+- For all the WBs in the shrines, .link([here]https://docs.google.com/spreadsheets/d/1yCaXZycqVCExoERsym__m_jrNgRg68CCeruMgL4lRfo/edit#gid=0doc) is the document with all the possibilities.
+- The WBs are written with their directions, like 'S>' .link([here]https://docs.google.com/drawings/d/1X8y5J9c6hpzh9WuvBoBGg32BtFqok2rpB7Z9-mQqbJg/edit) to have all the directions.
+
+- Great Plateau:
+    - use: ./branches/plateau.yaml
+
+- First Branch:
+    - use: ./branches/branche1.yaml
+
+- Final Branch:
+    - use: ./branches/branche2.yaml
+
