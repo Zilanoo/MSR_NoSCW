@@ -56,7 +56,7 @@
  - .important(4 Hearts from statue):
     icon: location
     coord: [1839.9375,997.7623001341335]
-    notes: Normally, you have 3 orbs left
+    notes: You should have 3 orbs left 
  - N
  - _Equipment::Shield<Shield of Mind's Eye>:
     comment: Inside shrine
