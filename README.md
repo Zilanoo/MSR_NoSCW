@@ -1,3 +1,1 @@
-# BOTW Celer Boilerplate
-
-download or clone this repo to start your BOTW route
+https://celer.pistonite.org/view/Zilanoo/MSR_NoSCW:fr
